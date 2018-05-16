@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Money Rewards</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="channel_one_ids">
+        <item>ca-app-pub-3940256099942544~3347511713</item>
+        <item>ca-app-pub-3940256099942544/5224354917</item>
+    </string-array>
+
+    <string-array name="channel_two_ids">
+        <item>ca-app-pub-3940256099942544~3347511713</item>
+        <item>ca-app-pub-3940256099942544/5224354917</item>
+    </string-array>
+
+    <string-array name="channel_three_ids">
+        <item>ca-app-pub-3940256099942544~3347511713</item>
+        <item>ca-app-pub-3940256099942544/5224354917</item>
+    </string-array>
+
+    <string-array name="channel_four_ids">
+        <item>ca-app-pub-3940256099942544~3347511713</item>
+        <item>ca-app-pub-3940256099942544/5224354917</item>
+    </string-array>
+
+    <string-array name="channel_five_ids">
+        <item>ca-app-pub-3940256099942544~3347511713</item>
+        <item>ca-app-pub-3940256099942544/5224354917</item>
+    </string-array>
+
+    <string-array name="main_content">
+        <item>Check-in Bonus</item>
+        <item>Take a survey</item>
+        <item>Check offer walls</item>
+        <item>Watch Videos</item>
+        <item>Referral Bonus</item>
+    </string-array>
+    <string-array name="watch_video_channels">
+        <item>Video channel #1</item>
+        <item>Video channel #2</item>
+        <item>Video channel #3</item>
+        <item>Video channel #4</item>
+        <item>Video channel #5</item>
+    </string-array>
+    <string name="title_activity_poll_fish_survey">PollFishSurveyActivity</string>
+    <string name="survey_rewards">Survey Rewards</string>
+    <string name="survey_desc">Earn 20 coins as Rewards by completing the survey in less than minute!!</string>
+    <string name="take_the_survey">Take the survey</string>
+    <string name="loading_survey">Loading survey</string>
+    <string name="one_more_surveyy">Take one more survey</string>
+    <string name="not_eligible">Not eligible for the survey! Please try to enter different option next time</string>
+    <string name="survey_recieved">Survey Received</string>
+    <string name="survey_completed">Survey completed</string>
+    <string name="check_survey">Looking for survey</string>
+    <string name="no_survey">No available survey at the moment</string>
+    <string name="try_again">Try again</string>
+    <string name="no_surevy">No survey</string>
+    <string name="title_activity_watch_video">WatchVideoActivity</string>
+    <string name="watch_video_desc">Earn 20 coins by watching a small video in less than a minute!!</string>
+    <string name="video_rewards">Video Rewards</string>
+    <string name="channel_text">Video Channel #</string>
+    <string name="watch_video">Watch Video</string>
+    <string name="loading_video">Loading video..</string>
+    <string name="video_loaded">Video loaded!!</string>
+    <string name="not_available">Video not available! Please check other video channels or try again after a minute!</string>
+    <string name="one_more_vid">Watch one more</string>
+    <string name="earned_coins">Congrats! You have been credited with 20 coins as Rewards!</string>
+    <string name="not_completed_vid">You have not watched the video completely!</string>
+    <string name="rewards">Rewards!!</string>
+    <string name="okay">Okay</string>
+    <string name="title_activity_check_in">CheckInActivity</string>
+    <string name="check_in_rewards">Check In Rewards</string>
+    <string name="check_in_desc">Claim your check in reward of 20 coins by watching a video</string>
+    <string name="check_in_success">Congrats! You have successfully claimed check-in rewards of 20 coins!</string>
+    <string name="check_in_already_claimed">You have already claimed today\'s rewards, continue to earn more by watching videos and taking surveys!</string>
+    <string name="offer_wall_rewards">Offer wall Rewards</string>
+    <string name="offer_wall_desc">Earn rewards by completing the tasks given in the offer wall.</string>
+    <string name="show_offerwall">show offerwall</string>
+    <string name="loading_wall">Loading offerwall</string>
+</resources>
